@@ -1,11 +1,19 @@
-# Nädal 0: Onboarding & Meeskonnatöö
+# DACA Portfoolio -- [Sinu Nimi]
 
-## Minu panus meeskonnatöös
-- **Roll:** Roll A (GitHub Repo Seadistaja — tiimi avaliku repo loomine, README.md täitmine, kaasautorite kutsumine) meeskonnas UrbanStyle G2 -- Kliendid-Turundus
-- **Tehtud tegevused:**
-  - Lõin meeskonna ühise avaliku repositooriumi.
-  - Täitsin meeskonna `README.md` faili ja meeskonnaliikmete tabeli.
-  - Lisasin meeskonnaliikmed *collaborator*'iteks.
+## Minust
+[Kirjuta 2-3 lauset enda kohta. Miks sa liitusid DACA programmiga?]
 
-## Meeskonnatöö link
-- Meeskonna GitHubi repositoorium: (https://github.com/kairikiik-hub/UrbanStyle-G2----Kliendid-Turundus.git)
+## Eesmärk
+Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
+
+## Nädala kaupa
+| Nädal | Teema | Staatus |
+|-------|-------|---------|
+| 0 | Onboarding | Käimas |
+| 1 | SQL Basics | Tulemas |
+| 2 | SQL Cleaning | Tulemas |
+| 3 | SQL JOINs | Tulemas |
+| 4 | SQL Aggregation | Tulemas |
+| 5-6 | Visualiseerimine | Tulemas |
+| 7-8 | Python | Tulemas |
+| 9-10 | Portfoolio + Karjäär | Tulemas |
