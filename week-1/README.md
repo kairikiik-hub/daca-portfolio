@@ -4,9 +4,9 @@
 
 Tabelis Sales oli kokku 15234 rida (erineva id-ga müüki)
 
-olid esindatud linnadest Tallinn, Pärnu, Tartu
+Poed olid esindatud linnadest Tallinn (5704 poodi), Pärnu (1618 poodi), Tartu (2708 poodi)
               
-müügiandmetest puudusid kliendi andmed 1487 korral
+müügiandmetest puudusid kliendi andmed 1487 korral; erinevaid kliente olemasolevate andmete põhjal (erinevaid customer_id) oli 2558
 
 Päringute sql koodid leiab week-1.sql failist
 
