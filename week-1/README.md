@@ -16,9 +16,9 @@ Mitu rida on tabelis:
 
 Millised veerud on tabelis:
 
-![Millised veerud1](veergude nimed_1.png)
+![Millised veerud1](veergude_nimed_1.png)
 
-![Millised veerud2](veergude nimed_2.png)
+![Millised veerud2](veergude_nimed_2.png)
 
 Kaupluste asukohad:
 
@@ -32,4 +32,4 @@ Suurimad ja väiksemad tehingud:
 
 Puuduvad kliendiandmed
 
-![Puuduvad andmed](Puuduv väärtus.png)
+![Puuduvad andmed](Puuduv_väärtus.png)
