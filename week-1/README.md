@@ -2,11 +2,11 @@
 
 #Roll A - Müügiandmete uurija
 
-Tabelis Sales oli kokku 15234 klienti
+Tabelis Sales oli kokku 15234 rida (erineva id-ga müüki)
 
 olid esindatud linnadest Tallinn, Pärnu, Tartu
               
-puuduva kliente oli 1487
+müügiandmetest puudusid kliendi andmed 1487 korral
 
 Päringute sql koodid leiab week-1.sql failist
 
