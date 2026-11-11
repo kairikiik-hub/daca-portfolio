@@ -2,8 +2,8 @@
 
 #Roll A - Müügiandmete uurija
 
-Tabelis Sales oli kokku 15234 klienti;
+Tabelis Sales oli kokku 15234 klienti
 
-              olid esindatud linnadest Tallinn, Pärnu, Tartu;
+              olid esindatud linnadest Tallinn, Pärnu, Tartu
               
-              puuduva kliente oli 1487;
+              puuduva kliente oli 1487
