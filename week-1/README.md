@@ -11,5 +11,5 @@ puuduva kliente oli 1487
 Päringute sql koodid ja tulemused:
 
 Mitu rida on tabelis:
-![Mitu rida on tabelis]/(mitu_rida.png)
+![Mitu rida on tabelis](week-1/mitu_rida.png)
 
