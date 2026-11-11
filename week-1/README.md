@@ -8,7 +8,9 @@ olid esindatud linnadest Tallinn, Pärnu, Tartu
               
 puuduva kliente oli 1487
 
-Päringute sql koodid ja tulemused:
+Päringute sql koodid leiab week-1.sql failist
+
+Mõned näited päringutest ja tulemused:
 
 Mitu rida on tabelis:
 
