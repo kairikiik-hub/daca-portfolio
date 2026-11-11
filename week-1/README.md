@@ -2,9 +2,9 @@
 
 #Roll A - Müügiandmete uurija
 
-Tabelis Sales oli kokku 15234 rida (erineva id-ga müüki)
+Tabelis Sales oli kokku 15234 rida (erinevat tehingut)
 
-Poed olid esindatud linnadest Tallinn (5704 poodi), Pärnu (1618 poodi), Tartu (2708 poodi)
+Poed olid esindatud linnadest Tallinn (5704 tehingut), Pärnu (1618 tehingut), Tartu (2708 tehingut)
               
 müügiandmetest puudusid kliendi andmed 1487 korral; erinevaid kliente olemasolevate andmete põhjal (erinevaid customer_id) oli 2558
 
