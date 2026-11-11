@@ -11,5 +11,25 @@ puuduva kliente oli 1487
 Päringute sql koodid ja tulemused:
 
 Mitu rida on tabelis:
+
 ![Mitu rida on tabelis](mitu_rida.png)
 
+Millised veerud on tabelis:
+
+![Millised veerud1](veergude nimed_1.png)
+
+![Millised veerud2](veergude nimed_2.png)
+
+Kaupluste asukohad:
+
+![Kaupluste asukohad](kaupluste_asukohad.png)
+
+Suurimad ja väiksemad tehingud:
+
+![Suurimad tehingud](Suurimad_tehingud.png)
+
+![Väiksemad tehingud](Väiksemad_tehingud.png)
+
+Puuduvad kliendiandmed
+
+![Puuduvad andmed](Puuduv väärtus.png)
