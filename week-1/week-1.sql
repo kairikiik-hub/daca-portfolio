@@ -2,6 +2,11 @@
 select count (*) from sales;
 --15234
 
+--Kui palju on unikaalseid tehinguid
+select count (distinct sale_id)
+from sales;
+--10118
+
 --Millised veerud on tabelis sales
 select * from sales;
 
