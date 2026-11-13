@@ -8,7 +8,9 @@ Poed olid esindatud linnadest Tallinn (5704 tehingut), Pärnu (1618 tehingut), T
               
 müügiandmetest puudusid kliendi andmed 1487 korral; erinevaid kliente olemasolevate andmete põhjal (erinevaid customer_id) oli 2558
 
-Päringute sql koodid leiab week-1.sql failist
+Link grupi ühisele tööle https://github.com/KuuskV/daca-portfolio/blob/fca853014a3f76e026836c48f6aab5170cad7949/week-1/team/week1_data_landscape.md
+
+Minu päringute sql koodid leiab week-1.sql failist
 
 Mõned näited päringutest ja tulemused:
 
