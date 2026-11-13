@@ -2,7 +2,7 @@
 
 #Roll A - Müügiandmete uurija
 
-Tabelis Sales oli kokku 15234 rida (erinevat tehingut)
+Tabelis Sales oli kokku 15234 rida. Unikaalseid tehinguid 10118. Negatiivseid tehinguid oli 305.
 
 Poed olid esindatud linnadest Tallinn (5704 tehingut), Pärnu (1618 tehingut), Tartu (2708 tehingut). 5204 tehingut oli teostatud nii, et asukohta ei olnud märgitud.
               
