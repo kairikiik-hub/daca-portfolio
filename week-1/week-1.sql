@@ -35,6 +35,12 @@ from sales
 order by total_price
 limit 5;
 
+--Palju on negatiivse väärtusega tehinguid
+select count (total_price ) as negatiivsed_tehingud
+from sales
+where total_price < 0;
+--305
+
 --puuduvad väärtused
 -- Mitu klienti, kus eesnimi on puudu?
 SELECT COUNT(*) - COUNT(customer_id) AS puuduv_klient
