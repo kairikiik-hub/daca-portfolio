@@ -11,6 +11,8 @@ VÄLJUND (Ristvalideerimise raport (orbid leitud, ebakõlad leitud, soovitused) 
 | Hinna ebakõlad | -- | -- |
 |Kokku probleeme | -- | -- |
 
+Probleemid: vaimklientide moonutavad kliendibaasi suurust ja keskmist käivet kliendi kohta
+            vaimtooted  - vale laoseis ja ostuotsused, moonutatud müügiaruanne 
 Kõige kriitilisem probleem
 
-
+Müük: müügitulu 
