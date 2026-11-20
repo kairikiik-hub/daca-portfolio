@@ -32,9 +32,8 @@ SELECT s.sale_id, s.total_price, p.retail_price AS tootehind, s.quantity,
 FROM sales s
 JOIN products p ON s.product_id = p.product_id
 WHERE ABS(s.total_price - (p.retail_price * s.quantity)) > 1
-ORDER BY ABS(s.total_price - (p.retail_price * s.quantity)) DESC
-LIMIT 20;
--- 20 müügis ei klapi müügihind tootehinnaga
+ORDER BY ABS(s.total_price - (p.retail_price * s.quantity)) DESC;
+-- 664 müügis ei klapi müügihind tootehinnaga
 
 -- Millistel tootel on suurimad hinnaerinevused?
 SELECT p.product_name, p.category, p.retail_price AS list_hind,
