@@ -8,7 +8,7 @@ VÄLJUND (Ristvalideerimise raport (orvud leitud, ebakõlad leitud, soovitused) 
 | Orvtooted | 0 | Pole tooteid, mis on müüdud, aga ei ole toodete tabelis |
 | Vaimkliendid | 592 | 592 klienti pole kunagi ostnud |
 | Vaimtooted | 12 | 12 toodet ei ole kunagi müüdud | 
-| Hinna ebakõlad | 20 | 20 tehingus ei klapi müügihind tootehinnaga |
+| Hinna ebakõlad | 664 | 664 tehingus ei klapi müügihind tootehinnaga |
 | Kokku probleeme | 624 | Peamised ostuta kliendikontod; kriitilisi viitevigu ei esine |
 
 Probleemid: vaimklientide moonutavad kliendibaasi suurust ja keskmist käivet kliendi kohta
