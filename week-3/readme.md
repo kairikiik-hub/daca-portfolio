@@ -12,6 +12,9 @@ Näited päringutest:
 
 <img width="1276" height="589" alt="image" src="https://github.com/user-attachments/assets/36822849-7b81-421e-94f5-786600fae6c4" />
 
+<img width="1360" height="604" alt="image" src="https://github.com/user-attachments/assets/76ecaa77-cdfe-4287-9b6e-ba46a2cd2fba" />
+
+
 
 
 
