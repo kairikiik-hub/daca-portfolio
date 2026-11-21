@@ -6,7 +6,8 @@ Sql fail + tulemuste screenshot + inventuuri soovitused
 Näited päringutest:
 <img width="1273" height="622" alt="image" src="https://github.com/user-attachments/assets/36f6b521-5f60-4802-afc3-3988650ad154" />
 
-<img width="632" height="477" alt="image" src="https://github.com/user-attachments/assets/71cde1ec-8c36-4881-abdd-0dd3b5f9919b" />
+<img width="1294" height="561" alt="image" src="https://github.com/user-attachments/assets/5fce190b-c61e-4abe-b77c-4cb07e3c979c" />
+
 
 
 
