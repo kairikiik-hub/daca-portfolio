@@ -8,6 +8,9 @@ Näited päringutest:
 
 <img width="1294" height="561" alt="image" src="https://github.com/user-attachments/assets/5fce190b-c61e-4abe-b77c-4cb07e3c979c" />
 
+<img width="1300" height="605" alt="image" src="https://github.com/user-attachments/assets/b3ffafdc-8242-4fe7-8461-b02b732631d7" />
+
+
 
 
 
