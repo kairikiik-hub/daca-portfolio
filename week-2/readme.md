@@ -25,9 +25,12 @@ SQL päring:
 SELECT COUNT(NULLIF(TRIM(email), '')) AS enne, COUNT(DISTINCT LOWER(NULLIF(TRIM(email), ''))) AS parast FROM customers_test;
 
 Tähendus osakonnale:
-pärast duplikaat emailide eemaldamist saame täpsema kampaaniate ja uudiskirjade statistika; klientidele ei saadeta topeltkirju (vähem rämpsposti kaebusi), terviklik kliendivaade (ühe ja sama kliendi ostud ei ole enam killustunud mitme konto vahel); kliendibaasi suurus ja keskmine tulu kliendi kohta on täpsem
+pärast duplikaat emailide eemaldamist saame täpsema kampaaniate ja uudiskirjade statistika; klientidele ei saadeta 
+topeltkirju (vähem rämpsposti kaebusi), terviklik kliendivaade (ühe ja sama kliendi ostud ei ole enam killustunud mitme konto vahel); kliendibaasi suurus ja keskmine tulu kliendi kohta on täpsem
 
 Kontroll teise meeskonna numbritega : saime ....
+
+Link grupi ühistööle: https://docs.google.com/presentation/d/1xjhDgs9Knx-YogNU7mxKjI4cbaaV8NJfCxgT2Y7uz2s/edit?slide=id.p1#slide=id.p1
 
 
 
