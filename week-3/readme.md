@@ -9,6 +9,8 @@ Sql fail + tulemuste screenshot + inventuuri soovitused
 
 3) Kõige edukamad kategooriad: Kõige tulusamad ja kõige populaarsemad tootekategooriad on 'jalanõud' ja 'meeste riided'. Edaspidises ostuplaneerimises tasub suunata põhifookus just nende juhtivate kategooriate varude tagamisele ning vähendada väheaktiivsete kaubagruppide osakaalu.
 
+
+
 1. Suurimad üllatused - Esimene üllatus oli müümata kauba olematu laoseis.
                     - Teine üllatus (populaarsuse ja käibe lahknevus): Kõige rohkem tükke müüdi naistekleiti ja seemisnahkseid oxforde (81–83 tk), kuid kõige rohkem raha tõid sisse hoopis teised tooted (sporditossud ja goretex oxfordid). See näitab, et kõige popim toode ei võrdu automaatselt kõige kasumlikuma tootega.
                     
