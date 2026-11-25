@@ -224,3 +224,17 @@ from products p left join sales s on p.product_id = s.product_id
 where s.sale_id is null
 order by retail_price desc;
 
+--tooted, mis on laos, aga ei ole kordagi müüdud
+SELECT
+p.product_name,
+p.category,
+p.retail_price,
+i.quantity_available,
+(p.retail_price * i.quantity_available) AS kinni_olev_raha
+FROM products p
+LEFT JOIN sales s ON p.product_id = s.product_id
+LEFT JOIN inventory i ON p.product_id = i.product_id
+WHERE s.sale_id IS NULL     AND i.quantity_available > 0
+ORDER BY kinni_olev_raha DESC; 
+--Success. No rows returned (ei ole ühtegi toodet, mis laos seisaks)
+
