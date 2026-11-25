@@ -7,7 +7,15 @@ Sql fail + tulemuste screenshot + inventuuri soovitused
 
 2) Juurde tellitavad tooted: Suure nõudluse tõttu tuleb esmajärjekorras täiendada kõige populaarsemate toodete laovarusid, eesotsas artiklitega: 'Moodne seemisnahkne oxfordid' (müüdud 83 tk) ja 'Minimalistlik villane pühapäevakleit' (müüdud 81 tk). Lisaks tuleb juurde tellida kõige suurema müügikäibega tooteid, nagu 'Õhuline sünteetiline sporditossud' ja 'Trendikas goretex oxfordid'.
 
-3) Kõige edukamad kategooriad: Kõige tulusamad ja kõige populaarsemad tootekategooriad on 'jalanõud' ja'meeste riided'. Edaspidises ostuplaneerimises tasub suunata põhifookus just nende juhtivate kategooriate varude tagamisele ning vähendada väheaktiivsete kaubagruppide osakaalu.
+3) Kõige edukamad kategooriad: Kõige tulusamad ja kõige populaarsemad tootekategooriad on 'jalanõud' ja 'meeste riided'. Edaspidises ostuplaneerimises tasub suunata põhifookus just nende juhtivate kategooriate varude tagamisele ning vähendada väheaktiivsete kaubagruppide osakaalu.
+
+1. Suurimad üllatused - Esimene üllatus oli müümata kauba olematu laoseis.
+                    - Teine üllatus (populaarsuse ja käibe lahknevus): Kõige rohkem tükke müüdi naistekleiti ja seemisnahkseid oxforde (81–83 tk), kuid kõige rohkem raha tõid sisse hoopis teised tooted (sporditossud ja goretex oxfordid). See näitab, et kõige popim toode ei võrdu automaatselt kõige kasumlikuma tootega.
+                    
+2. Soovitus Annale - Täiesti müümata kaupa likvideerida ei ole vaja (laoseis on 0), küll aga tuleks e-poest/andmebaasist eemaldada need 12 ostmata toodet.
+                - Suunata põhiressurss kõige tulusamatesse kategooriatesse (jalanõud ja meeste riided) ning tagada pidev saadavus nii hitt-toodetele kui ka suurima käibe toojatele
+
+3. Puudujääk - Meil puudus info, kui palju nendest enim müüdud toodetest hiljem tagasi saadeti.
 
 
 
