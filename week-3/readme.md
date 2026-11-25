@@ -11,7 +11,7 @@ Sql fail + tulemuste screenshot + inventuuri soovitused
 
 
 
-**1. Suurimad üllatused** - Esimene üllatus oli müümata kauba olematu laoseis. Teine üllatus (populaarsuse ja käibe lahknevus): Kõige rohkem tükke müüdi naistekleiti ja seemisnahkseid oxforde (81–83 tk), kuid kõige rohkem raha tõid sisse hoopis teised tooted (sporditossud ja goretex oxfordid). See näitab, et kõige popim toode ei võrdu automaatselt kõige kasumlikuma tootega.
+**1. Suurimad üllatused** - Esimene üllatus oli müümata kauba olematu laoseis. Teine üllatus (populaarsuse ja käibe lahknevus): Kõige rohkem tükke müüdi naistekleiti ja seemisnahkseid oxforde, kuid kõige rohkem raha tõid sisse hoopis teised tooted (sporditossud ja goretex oxfordid). See näitab, et kõige popim toode ei võrdu automaatselt kõige kasumlikuma tootega.
                     
 **2. Soovitus Annale** - Täiesti müümata kaupa likvideerida ei ole vaja (laoseis on 0), küll aga tuleks e-poest/andmebaasist eemaldada need 12 ostmata toodet.
                 - Suunata põhiressurss kõige tulusamatesse kategooriatesse (jalanõud ja meeste riided) ning tagada pidev saadavus nii hitt-toodetele kui ka suurima käibe toojatele
